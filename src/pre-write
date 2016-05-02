@@ -1,0 +1,51 @@
+Pre-Write
+Command Line
+Means of interacting with computer program
+Primary means of interaction with computer before video display terminal
+Control program
+Control operating system
+Preferred by more advanced users
+Concise
+Powerful 
+
+Advantages
+Requires fewer resources
+Expert friendly
+Easier to automate with scripting
+
+Disadvantages
+Unintuitive
+Non-obvious commands
+Not visually rich
+Beginner unfriendly
+
+History
+Evolved from form of dialogue
+Teleprinter machines early for human-computer communication
+Early command line for resident monitor (precursor to operating system)
+Microcomputers (early) based on CLI
+1980-1990, CLI replaced by GUI
+Still used by advanced users 
+System administration
+Computer programming
+Batch processing
+Usage
+Used when commands faster than with GUI
+When there are no resources
+Rapid evaluation of code
+For those with visual disability
+
+Anatomy
+Prompt
+Command
+Parameters
+Newline separates commands
+Syntax and semantics
+Different between different CLIs
+Self-documenting (unlike GUI)
+Alter PATH variable to alter CLI commands
+Command prompt “prompts” for commands
+arguments/parameters provide information to program
+Options alter command behavior
+Built in usage help hard, sometimes parameters displayed
+“Man” for manual information
