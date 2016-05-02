@@ -1,0 +1,28 @@
+Command line is a text interface that takes commands and passes them onto the computer’s operating system to run. Unlike the graphical 
+user interface, where the user can find files and directories graphically, the command line allows for the same functionality except 
+with all text. Understanding command line is essential in becoming a skilled developer. Even for those not seeking the path of 
+development, understanding the command line will help those collaborating with those that do develop. Though the graphical user 
+interface can greatly simplify computer use, the command line interface provides the more powerful and flexible way to interact 
+with a computer in most cases. 
+	In order to operate the command line, the first thing that needs to be done is the opening of a terminal. Commands for the computer 
+	are typed in this terminal. Every command line begins with a symbol called the prompt, and it is meant to prompt the user for input. 
+	There is a simple command called “echo” that simply prints out the string following it. There is another command, Ctrl-C, that will 
+	fix incorrect commands that halt further commands. In a way, this command equals “cancel.” Other commands can be learned through a 
+	special command known as “man.” This stands for manual, and typing in a command after this one will cause the documentation for that 
+	command to be displayed. There are commands that allow the user to allow the repetition of previous commands.
+	The command line allows for expert-friendly control of a computer program or operating system. The interface is extremely fast if a 
+	user knows what to type. The CLI also consumes much less memory (RAM) in order to use. The CLI does not consume as much computer 
+	processing time as other interfaces. This does not require the common operating system Windows, and it can even be used on a cheap 
+	monitor, making the CLI very affordable. There are several disadvantages with using the command line interface. It can be very confusing for beginners, and commands need to be typed out perfectly. A single mistake can force the restarting of the entire process. Hundreds of commands must be learned, and these instructions cannot be guessed. The GUI also has multitasking capabilities that are not easily transferred to the CLI environment. 
+	The CLI requires no mouse to operate, and so with modern day technology, with a mouse being so common, it seems obsolete to use the 
+	CLI when the GUI is so visually appealing. Also, many users may not need the benefits of CLI, namely speed and resource efficiency. 
+	However, the CLI is not obsolete and continues to find uses in the modern world. In fact, some are finding that the CLI and GUI can 
+	be combined. Of course, there are those that are advanced in programming and software development that find the command line faster 
+	to use. But, the combination of the GUI and CLI is an interesting one, and people find that graphics will affect the ease of use of 
+	the command line.
+	The command line is a powerful tool that is the preface to programming languages. In essence, the command line user is commanding 
+	the computer what to do. The process is not for beginners; command line is oriented towards experts. However, once the command line 
+	system has been mastered, it makes it easy for experts to carry out tasks. The CLI has its advantages and disadvantages, but the 
+	modern world still has use for this system.
+	
+
